@@ -86,8 +86,13 @@ body {
   gap: 10px;
 }
 
-.row .title h5 {
+.row .title h4 {
   text-align: start;
+}
+
+.row .title h4 span {
+  font-weight: 400;
+  font-size: 15px;
 }
 
 .btn {

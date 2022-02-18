@@ -58,8 +58,12 @@ body {
       display: flex;
       align-items: center;
       gap: 10px;
-      h5{
+      h4{
           text-align: start;
+          span{
+              font-weight: 400;
+              font-size: 15px;
+          }
       }
   }
 }
